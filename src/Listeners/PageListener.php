@@ -524,6 +524,7 @@ class PageListener
     {
         return $this
             ->setMetaPropertyTag('og:image', $imagePath)
+            ->setMetaTag('og:image', $imagePath)
             ->setMetaTag('twitter:image', $imagePath)
             ->setSchemaJson('image', $imagePath);
     }

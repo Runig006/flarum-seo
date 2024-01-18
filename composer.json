@@ -1,6 +1,7 @@
 {
     "name": "v17development/flarum-seo",
-    "description": "Adds SEO tags for your Flarum forum",
+    "description": "Adds SEO tags for your Flarum forum. Custom for Comuesp",
+    "version": "1.0.0",
     "type": "flarum-extension",
     "license": "MIT",
     "authors": [
@@ -38,8 +39,8 @@
             "category": "feature",
             "icon": {
                 "name": "fas fa-check",
-                "backgroundColor": "#0072ff",
-                "color": "#ffffff"
+                "backgroundColor": "#ff7700",
+                "color": "#fff"
             }
         },
         "flagrow": {
